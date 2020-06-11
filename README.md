@@ -3,31 +3,18 @@
 ## 新冠病毒的数据可视化页面
 
 演示效果如下：
-
+![演示效果图](/src/common/images/captured.gif)
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
+启动前端服务
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+启动后端服务
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
+npm run dev
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
