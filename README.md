@@ -1,5 +1,9 @@
 # vue-2019-ncov
 
+## 新冠病毒的数据可视化页面
+
+演示效果如下：
+
 ## Project setup
 ```
 npm install
