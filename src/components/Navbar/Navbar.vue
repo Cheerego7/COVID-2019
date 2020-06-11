@@ -4,19 +4,19 @@
       <span class="iconfont">&#xe779;</span>
       2019nCoV
     </div>
-    <router-link to="/">
+    <router-link to="/" class="router-link-active">
       <div class="nav-left">
         <span class="iconfont">&#xec3f;</span>
         全国情况
       </div>
     </router-link>
-    <router-link to="/city">
+    <router-link to="/city" class="router-link-active">
       <div class="nav-left">
         <span class="iconfont">&#xec66;</span>
         疫情趋势
       </div>
     </router-link>
-    <router-link to='/world'>
+    <router-link to='/world' class="router-link-active">
       <div class="nav-left">
         <span class="iconfont">&#xeb96;</span>
         国外疫情信息
